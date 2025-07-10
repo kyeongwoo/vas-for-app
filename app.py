@@ -1,4 +1,4 @@
-wimport streamlit as st
+import streamlit as st
 from datetime import date
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
