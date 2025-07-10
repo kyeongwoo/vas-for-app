@@ -1,1 +1,14 @@
 
+{
+  "type": "service_account",
+  "project_id": "streamlit-form-project",
+  "private_key_id": "f6243905ec727284011c6de8acbc29aa9468e805",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLNix+1Vwj6hJb\ncwPRDFDlO6Jned1NmpsF7yRn2esDDGSv/kqNp8MFEB8S9BN+yfK+8EajXGKRtG7Q\nZwu33TL4M+xM8Yi4Sc+8Wt+dwvWHb15MHgM/CNIqWVjf4NgOC6M/7TN2LaPXMuaf\nbS9bA+qOJFDt607cKWpdAaWyteL82dVQ9nJZyY4wEaQoQuQkpOe3f+kWw12IvGrb\nfdY3Qe4akACssDxloJ/QxWq0nX3GATgMaof99xf9S7u/t+7oxVhXpBNoQp81ij97\nj4zcoUQpOHTp4xy0NdkF1GpjTy/fBF660TfXVC/wp0ynbjKg7GxPE475uaztT/rr\na+APzAPfAgMBAAECggEAH59mDDS6mnIl+iorSWA/xHRjwPODXzy0bBd7VFfijP5k\nOsj5JBMbs5F/LG1kDUJy7oiojWpmgmMQLYkjlzCqalp2JsEddAQ0egywKLY6jCFm\nDLVM7wW54tI1lN1B8emYtW19qSHQEcB/iAavLFwvJ4B6QZPxGSyuuxtzBBzu3kbm\nepUFbLn6+aNFhsbCMmju1wMb5zT4wSBPfwTRrAw3paYXSKZN/LtJzdGw7b2PCdIk\nODMMTgKnbL6CP7Hk6S3K/ijC8tVlwojuu/F/R1uVsepHp4H8cIL8823vj8QRAJC9\nYFZhX9ZOu2keO0YkRGUBDuR2eadoCOp5k6Pvcw1jMQKBgQD5DcgHrrhiG4gLxr2K\nE1MFfq5BXM8LDrXWHDGIbvaD2H0IATKqJvC1pdjb/d2b1xUK6pB/9PlfG1ciR0h9\nJHnJm6YbX9az4H1QvsSemoiyzCZNul2H3GCE/iNiJ5MtVdoVow6q/rONTx13crlB\nd5yJxGK+VEnPWEw8ixgfdRbmbwKBgQDQ4RVwtibhT88cQG3+zluUSE7aKQ7K/NRG\nK6q4Hd6Bnl4Ai7jYd09MGXDZlNzOJ/lqnEDpJV6hCd5vUczYZLPgRBZXByubNY45\njmlUYCvYOcqCz/GFKsinHmyK1SPzDqmj/y3N95k0E9fIXnqxQ5Y1Z7kzy46Sof3y\nAfT3SevxkQKBgCqsJtLSJ/t/Vh8WbVFkIDx3ySmf2kW9voAyEnaa9JgAluOxONoY\nk/O7t91xsO/LuWpGaH3UHooiKBrSdeQjRM67YYmdMS9eznnwRcYbGkLwYbu9q9rk\ncpE27h8aQshoxlYguxmnTGJw5M6blIxYDzU3teeAj6j8KwvQlVCGgmb3AoGBAIw1\nOiYRLuH4p2YoXW03aUOMkdlgy/w3X+nGL+8spYnOGv00zJwI4iKLxTNX+Cstq/8C\n6ZNWMUHZlQSWHPF4D0HPkktSldO2TESYMl2fvG6ExEmweUdRI6UCCAvc7CefxQE/\nLajetWi+lQ57VNIeMvqgKDH7RjVpJUPISn2fkg/xAoGARDgs7V7NALkDu5Q7dlpP\n+sKhQrw3p0B9Vn8F8GuHK2j/ts2fplWKnpMbjOU1I5wxIUa0CzdU90iFvbTXXld8\nKJ6DFIJzsdyQ4HROZY9PA7bkeO4HOXPIqQoq7liqkgue6fbi4B6Bn1LKnNC5J1Fj\nbgKsBcIS/Cyt/zw853Z2NGE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-form-writer@streamlit-form-project.iam.gserviceaccount.com",
+  "client_id": "106051738713076137765",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-form-writer%40streamlit-form-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
