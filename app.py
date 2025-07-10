@@ -5,7 +5,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 import pandas as pd
 
 # JSON 인증 파일 경로
-json_path = "streamlit-form-project-f6243905ec72.json"
+json_path = "C:/Users/Administ/OneDrive/바탕 화면/streamlit-form-project-f6243905ec72.json"
 
 # 구글 시트 인증
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
